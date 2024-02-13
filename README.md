@@ -62,7 +62,7 @@ Power BI
 
 Data Sources
 
-The project utilized customer data from [Data Source Name].
+The project utilized customer data from [Kaggle].
 
 # Analysis and Visualization
 
